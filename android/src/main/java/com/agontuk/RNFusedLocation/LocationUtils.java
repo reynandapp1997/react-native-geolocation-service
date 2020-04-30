@@ -7,7 +7,7 @@ import android.Manifest;
 import android.os.Build;
 import android.text.TextUtils;
 import android.provider.Settings;
-import androidx.core.app.ActivityCompat;
+import android.support.v4.app.ActivityCompat;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.WritableMap;
